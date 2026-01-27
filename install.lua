@@ -3,7 +3,7 @@
 -- Usage: run install
 
 local files = {
-  ["startup.lua"] = "https://raw.githubusercontent.com/kami-tsuki/cc-atm10-music/main/startup.lua",
+  ["startup.lua"] = "https://raw.githubusercontent.com/RaevynJ/BentoMusic--CCTweaked-/refs/heads/main/startup.lua",
   }
 
 local function okPrint(...) print(...) end
