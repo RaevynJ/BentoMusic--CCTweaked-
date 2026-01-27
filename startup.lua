@@ -1,6 +1,6 @@
 
 -- dont add "return" (idk why this is so, but keep it)
-function(require)
+function{require}
     -- CC: Tweaked DFPWM Playlist with Stop, Loop, Shuffle, and Adaptive Buttons (Clickable aligned)
     
     local dfpwm = require("cc.audio.dfpwm")
